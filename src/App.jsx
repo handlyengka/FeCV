@@ -1,6 +1,6 @@
 import Navbar from './Componnet/Navbar';
 import About from './Componnet/About';
-import Bgprimary from './Componnet/bg-primary';
+import Bgprimary from './Componnet/Bg-primary';
 import Blog from './Componnet/Blog';
 import Contact from './Componnet/Contact';
 import Footer from './Componnet/Footer';
